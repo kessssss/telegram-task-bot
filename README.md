@@ -1,2 +1,8 @@
 # telegram-task-bot
-This is my telegram bot that helps one to keep track of his activity. This bot can add and delete user's tasks by special commands, besides, it lists all that have left.
+This is the project of the telegram bot that helps one to keep track of his activity.
+
+# commands
+There are basically three main functions this bot can do:
+- add new tasks
+- delete the solved ones
+- list all the unsolved tasks 
