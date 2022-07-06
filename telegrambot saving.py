@@ -1,6 +1,6 @@
 import telebot
 
-TOKEN = '1313925249:AAHW_Xm0SyzXw7nYIpzcFzzR1dcSsHWq9g8'
+TOKEN = 'here the special private key is placed'
 
 bot = telebot.TeleBot(TOKEN)
 
