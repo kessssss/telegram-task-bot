@@ -3,7 +3,7 @@ import sqlite3
 import logging
 from db_queries import *
 
-bot = telebot.TeleBot('1313925249:AAHW_Xm0SyzXw7nYIpzcFzzR1dcSsHWq9g8', parse_mode=None)
+bot = telebot.TeleBot('here goes a special token, which should be private', parse_mode=None)
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
 
